@@ -87,6 +87,6 @@ Unidecode==0.4.21
 uritemplate==3.0.0
 urllib3==1.22
 watchdog==0.8.3
-Werkzeug==0.12.2
+Werkzeug==0.15.3
 wrapt==1.10.11
 zstandard==0.8.1
