@@ -15,7 +15,7 @@ docutils==0.14
 epydoc==3.0.1
 epyparse==0.2.5
 Flask==0.12.2
-Flask-Cors==3.0.3
+Flask-Cors==3.0.9
 Flask-OAuthlib==0.9.4
 future==0.16.0
 gapic-google-cloud-logging-v2==0.91.3
