@@ -57,7 +57,7 @@ pyasn1-modules==0.1.4
 pycountry==17.5.14
 pycparser==2.17
 Pygments==2.2.0
-PyJWT==1.5.3
+PyJWT==2.4.0
 pylint==1.7.2
 PyMySQL==0.7.11
 python-dateutil==2.6.0
