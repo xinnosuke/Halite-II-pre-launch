@@ -51,7 +51,7 @@ pathtools==0.1.2
 ply==3.8
 port-for==0.3.1
 proto-google-cloud-logging-v2==0.91.3
-protobuf==3.4.0
+protobuf==3.18.3
 pyasn1==0.3.5
 pyasn1-modules==0.1.4
 pycountry==17.5.14
